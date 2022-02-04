@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Rust
 - 💬 Ask me about anything related to Golang, DB, Java
 - ⚡️ Fun-Fact: I working out at 8am 🙃
-- 🎿 Hobbies other than coding : Reading or about History and Philosophical , Playing Games, Thinking about writing blogs 🤔🤖..
+- 🎿 Hobbies other than coding : Reading or about History and Philosophical , Playing Games, Thinking about writing blogs🤖..
 - 📫 How to reach me: [413650185@qq.com](413650185@qq.com)
 - 📖 My Blog：[luozhiyun`s Blog - 我的技术分享](https://www.luozhiyun.com/)
 
