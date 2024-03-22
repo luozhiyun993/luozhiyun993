@@ -10,7 +10,7 @@
 - 💬 Ask me about anything related to Golang, DB, Java
 - ⚡️ Fun-Fact: I working out at 8am 🙃
 - 🎿 Hobbies other than coding : Reading or about History and Philosophical , Playing Games, Thinking about writing blogs🤖..
-- 📫 How to reach me: [413650185@qq.com](413650185@qq.com)
+- 📫 How to reach me: [luozhiyun2@outlook.com](luozhiyun2@outlook.com)
 - 📖 My Blog：[luozhiyun`s Blog - 我的技术分享](https://www.luozhiyun.com/)
 
 ### 🛠 技术栈 | Tech Stack
