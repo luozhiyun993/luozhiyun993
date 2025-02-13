@@ -25,6 +25,8 @@ C++、Golang、Java、MySQL、Git、Linux、Kubernetes、Service Mesh
 
 [cpp](https://www.luozhiyun.com/archives/tag/cpp)
 
+[计算机基础](https://www.luozhiyun.com/archives/tag/%e8%ae%a1%e7%ae%97%e6%9c%ba%e5%9f%ba%e7%a1%80)
+
 [深入理解Go语言系列文章](https://www.luozhiyun.com/archives/category/后端/go)
 
 [深入TiDB源码](https://www.luozhiyun.com/archives/tag/tidb)
@@ -41,7 +43,7 @@ C++、Golang、Java、MySQL、Git、Linux、Kubernetes、Service Mesh
 
 [2023年总结：保持心情愉悦&积极向上](https://www.luozhiyun.com/archives/828)
 
-[2022年总结：保持&缓行]([url](https://www.luozhiyun.com/archives/737))
+[2022年总结：保持&缓行](https://www.luozhiyun.com/archives/737)
 
 [2021年总结](https://www.luozhiyun.com/archives/645)
 
