@@ -39,7 +39,7 @@ C++、Golang、Java、MySQL、Git、Linux、Kubernetes、Service Mesh
 
 [关于我](https://www.luozhiyun.com/关于)
 
-[2024沉寂积蓄新的力量](https://www.luozhiyun.com/archives/861)
+[2024年总结：沉寂积蓄新的力量](https://www.luozhiyun.com/archives/861)
 
 [2023年总结：保持心情愉悦&积极向上](https://www.luozhiyun.com/archives/828)
 
