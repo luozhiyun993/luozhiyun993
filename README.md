@@ -15,9 +15,15 @@
 
 ### 🛠 技术栈 | Tech Stack
 
-Golang、Java、MySQL、Git、Linux、Kubernetes、Service Mesh
+C++、Golang、Java、MySQL、Git、Linux、Kubernetes、Service Mesh
 
-### 📄文章 | Articles
+### 🌱 杂谈 | Discussion Articles
+
+[杂谈](https://www.luozhiyun.com/archives/tag/%e6%9d%82%e8%b0%88)
+
+### 📄技术文章 | Tech Articles
+
+[cpp](https://www.luozhiyun.com/archives/tag/cpp)
 
 [深入理解Go语言系列文章](https://www.luozhiyun.com/archives/category/后端/go)
 
@@ -30,6 +36,12 @@ Golang、Java、MySQL、Git、Linux、Kubernetes、Service Mesh
 ### 🪴More about me
 
 [关于我](https://www.luozhiyun.com/关于)
+
+[2024沉寂积蓄新的力量](https://www.luozhiyun.com/archives/861)
+
+[2023年总结：保持心情愉悦&积极向上](https://www.luozhiyun.com/archives/828)
+
+[2022年总结：保持&缓行]([url](https://www.luozhiyun.com/archives/737))
 
 [2021年总结](https://www.luozhiyun.com/archives/645)
 
