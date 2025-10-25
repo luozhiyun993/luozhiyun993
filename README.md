@@ -4,9 +4,7 @@
 ### I'm luozhiyun
 
 ### ✨ Quick Facts
-
-- 👨🏽‍💻 I’m currently working @Tencent (Golang & C++ Dev.)
-- 🌱 I’m currently learning Rust
+ 
 - 💬 Ask me about anything related to Golang, DB, Java
 - ⚡️ Fun-Fact: I working out at 8am 🙃
 - 🎿 Hobbies other than coding : Reading or about History and Philosophical , Playing Games, Thinking about writing blogs🤖..
