@@ -28,9 +28,7 @@
 
 [AI Agent](https://www.luozhiyun.com/archives/category/ai)
 
-[AI RL 1](https://mp.weixin.qq.com/s/lBQSQiXtl9HUF3fPMZkDMw)
-
-[AI RL 2]( https://mp.weixin.qq.com/s/JrNtqEQHvDwm_ZRySSLbMQ)
+[AI RL]([https://mp.weixin.qq.com/s/lBQSQiXtl9HUF3fPMZkDMw](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzYyMzk3OTI2Mg==&action=getalbum&album_id=4305571364062576654&subscene=319&scenenote=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzYyMzk3OTI2Mg%3D%3D%26mid%3D2247485415%26idx%3D1%26sn%3Dbf6a4b85a4387d478483b693fa312794%26clicktag%3Dbar_share%26scene%3D319%26fromweappid%3D%26nearchildidx%3D0%26nearchildpercent%3D0.05%26subscene%3D1%26ascene%3D4%26devicetype%3DiOS26.2%26version%3D18003a25%26nettype%3D3G%2B%26abtest_cookie%3DAAACAA%253D%253D%26lang%3Dzh_CN%26countrycode%3DCN%26fontScale%3D115%26exportkey%3Dn_ChQIAhIQ3cphQ4pfCrC33v55J3VEdhLWAQIE97dBBAEAAAAAAP%252FWKSjhbvEAAAAOpnltbLcz9gKNyK89dVj0T6duYc%252FQQabiJgmnO1m8AbF5x%252FBNk1AkFA%252ByDC%252BTSx9d6x7dPB%252BdF%252FloZu2pbKPNZRsjXcP6BLhGjX6LsD96995zj2V5nawdQSAzQtuV%252BJl%252BAP9Fi%252FxWWKBfiBy90c4zxEm0FcsejAHsqBK4GxA0njPVH9MoCtCPOG1%252Fsd9%252F5g7XTSnsWmc%252BExP0hV%252B6nwJklyD9IQR0SVeO2rFefgR9er5wghqzgpTRKmblI%252BCslNg%253D%26pass_ticket%3DQoA5UCtB0t00OicI%252Fp4NYg7U7s4Bm%252FlJ9S9HuWPXfPh1G6sLHXxHkcMiFjMkcj7a%26wx_header%3D3&nolastread=1#wechat_redirect)) 
 
 [cpp](https://www.luozhiyun.com/archives/tag/cpp)
 
