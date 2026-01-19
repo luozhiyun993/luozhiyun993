@@ -13,7 +13,12 @@
 
 ### 🛠 技术栈 | Tech Stack
 
-AI、C++、Golang、Java、MySQL、Git、Linux、Kubernetes、Service Mesh
+- **High-Concurrency Systems:** Extensive experience engineering systems for tens of millions of Daily Active Users (DAU).
+- **Programming Languages:** Proficient in Java, C++, and Python with an expert-level understanding of Go, including its internal implementation and source code.
+- **Cloud-Native & DevOps:** Skilled in microservices architecture, Service Mesh (Istio), Kubernetes (K8S), Docker, and implementing full DevOps CI/CD pipelines.
+- **Databases & Caching:** Experienced with MySQL optimization and management; in-depth knowledge of Redis for caching and Kafka for message queuing. Knowledgeable in distributed database systems.
+- **AI Agent:** Familiar with AI Agent-related tools, such as vector databases, LangGragh, and agent skills.
+- **Communication:** Master the necessary English communication skills.
 
 ### 🌱 杂谈 | Discussion Articles
 
