@@ -28,7 +28,9 @@
 
 [AI Agent](https://www.luozhiyun.com/archives/category/ai)
 
-[AI RL](https://mp.weixin.qq.com/s/lBQSQiXtl9HUF3fPMZkDMw, https://mp.weixin.qq.com/s/JrNtqEQHvDwm_ZRySSLbMQ)
+[AI RL 1](https://mp.weixin.qq.com/s/lBQSQiXtl9HUF3fPMZkDMw)
+
+[AI RL 2]( https://mp.weixin.qq.com/s/JrNtqEQHvDwm_ZRySSLbMQ)
 
 [cpp](https://www.luozhiyun.com/archives/tag/cpp)
 
