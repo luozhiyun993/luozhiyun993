@@ -3,12 +3,15 @@
 
 ### I'm luozhiyun
 
+I build **high-concurrency backend systems** and I’m an **AI Agent adopter** — turning agent workflows into real productivity for engineering & content creation.
+
 ### ✨ Quick Facts
  
-- 💬 Ask me about anything related to Golang, DB, Java
+- 💬 Talk to me about: **Golang / Distributed Systems / MySQL·Redis / Kafka / Cloud-Native**
+- 🤖 AI Agent lover: **RAG + tool-use + workflow orchestration + human-in-the-loop**
 - ⚡️ Fun-Fact: I working out at 8am 🙃
-- 🎿 Hobbies other than coding : Reading or about History and Philosophical , Playing Games, Thinking about writing blogs🤖..
-- 📫 How to reach me: [luozhiyun2@outlook.com](luozhiyun2@outlook.com)
+- 🎿 Off-screen: History & Philosophy reading, games, blogging, deep thinking 🤖
+- 📫 Email: **luozhiyun2@outlook.com**
 - 📖 My Blog：[luozhiyun`s Blog - 我的技术分享](https://www.luozhiyun.com/)
 
 ### 🛠 技术栈 | Tech Stack
